@@ -1,0 +1,31 @@
+.youtube-layout {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 100px;
+    background-color: #f8f9fa;
+    padding: 10px;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .video-column {
+    margin-bottom: 20px;
+  }
+  
+  .video-thumbnail {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
